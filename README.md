@@ -1,4 +1,4 @@
-# Alternative-Code Refactor Homework
+# Alternative Code Refactor Homework
 
 This is my alternative way of adding accessibility, cleaning up the HTML and CSS.
 
